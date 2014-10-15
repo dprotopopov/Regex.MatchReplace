@@ -1,0 +1,5 @@
+D:\Projects\Regex.Replace\Regex.Replace\bin\Debug\Regex.Replace.exe.config
+D:\Projects\Regex.Replace\Regex.Replace\bin\Debug\Regex.Replace.exe
+D:\Projects\Regex.Replace\Regex.Replace\bin\Debug\Regex.Replace.pdb
+D:\Projects\Regex.Replace\Regex.Replace\obj\Debug\Regex.Replace.exe
+D:\Projects\Regex.Replace\Regex.Replace\obj\Debug\Regex.Replace.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Regex.Replace\Regex.Replace\bin\Release\Regex.Replace.exe.config
+D:\Projects\Regex.Replace\Regex.Replace\bin\Release\Regex.Replace.exe
+D:\Projects\Regex.Replace\Regex.Replace\bin\Release\Regex.Replace.pdb
+D:\Projects\Regex.Replace\Regex.Replace\obj\Release\Regex.Replace.exe
+D:\Projects\Regex.Replace\Regex.Replace\obj\Release\Regex.Replace.pdb
+D:\Projects\Regex.Replace\Regex.Replace\obj\Release\Regex.Replace.csprojResolveAssemblyReference.cache
+D:\Projects\Regex.MatchReplace\Regex.Replace\bin\Release\Regex.Replace.exe.config
+D:\Projects\Regex.MatchReplace\Regex.Replace\obj\Release\Regex.Replace.exe
+D:\Projects\Regex.MatchReplace\Regex.Replace\obj\Release\Regex.Replace.pdb
+D:\Projects\Regex.MatchReplace\Regex.Replace\bin\Release\Regex.Replace.exe
+D:\Projects\Regex.MatchReplace\Regex.Replace\bin\Release\Regex.Replace.pdb
+D:\Projects\Regex.MatchReplace\Regex.Replace\obj\Release\Regex.Replace.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Projects\Regex.MatchReplace\Regex.Unescape\bin\Release\Regex.Unescape.exe.config
+D:\Projects\Regex.MatchReplace\Regex.Unescape\bin\Release\Regex.Unescape.exe
+D:\Projects\Regex.MatchReplace\Regex.Unescape\bin\Release\Regex.Unescape.pdb
+D:\Projects\Regex.MatchReplace\Regex.Unescape\obj\Release\Regex.Unescape.exe
+D:\Projects\Regex.MatchReplace\Regex.Unescape\obj\Release\Regex.Unescape.pdb
